@@ -1,0 +1,5 @@
+This is my currently not completly working solution to create an almost unattended windows 10 installation with installation of applications via chocolatey. 
+No warranty that anything is working correctly.
+You are using it at your own risk.
+
+Thanks a lot to the dev of ventoy and easy2boot to provide their software. 
