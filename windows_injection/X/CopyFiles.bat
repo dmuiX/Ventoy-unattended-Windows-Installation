@@ -11,7 +11,7 @@ set loganddisplay= ^> %~n0_temp.txt 2^>^&1 ^& type %~n0_temp.txt ^>^> %log% ^& t
 
 echo "Copy started\r\n" >> %loganddisplay%
 
-xcopy /herky %USB%\Win10Install\*.* %WINDIR%\Setup\Scripts\ %loganddisplay%
+xcopy /herky %USB%\*.* %WINDIR%\Setup\Scripts\ %loganddisplay%
 
 :: push tag to stop
 echo stop > %systemroot%\DONE_SDI.tag
