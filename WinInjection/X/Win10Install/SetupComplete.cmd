@@ -21,7 +21,7 @@ if "%BIT%"=="" echo ERROR: The BIT environment variable is not set - you must ru
 
 :: Install chocolatey
 
-echo Starting Chocolatey...
+echo Starting Installation of Chocolatey...
 echo %date% %time% DOWNLOAD CHOCOLATEY FROM NETWORK AND INSTALL... >> %loganddisplay%
 :: Some packages may not install correctly at this stage due to no user account but may still work OK - if not, use choco in the startup.cmd file instead!
 :: Packages may not be listed by choco list command if installed in this phase
