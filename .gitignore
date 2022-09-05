@@ -1,0 +1,5 @@
+*.iso
+.Spotlight-V100
+System Volume Information
+.fseventsd
+._*

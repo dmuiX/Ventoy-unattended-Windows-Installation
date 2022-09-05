@@ -1,0 +1,16 @@
+{
+    "auto_install":[
+        {
+            "image": "/Win10_21H2_EnglishInternational_x64.iso",
+            "template":[
+                "/autounattend_Win10.xml"
+            ]
+        }
+    ],
+    "injection":[
+        {
+            "image": "/Win10_21H2_EnglishInternational_x64.iso",
+            "archive": "/windows_injection.7z"
+        }
+    ]
+}
