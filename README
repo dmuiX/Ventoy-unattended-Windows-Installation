@@ -1,4 +1,6 @@
 This is my currently not completly working solution to create an almost unattended windows 10 installation with installation of applications via chocolatey. 
+I publish this because I did not find any other working solution for ventoy public. Take it as an inspiration to create your own thing.
+
 No warranty that anything is working correctly.
 You are using it at your own risk.
 
